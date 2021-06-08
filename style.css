@@ -4,6 +4,10 @@ body {
     background-color: #fbefdb;
 }
 
+.navbar {
+    background-color: #1f5b25;
+}
+
 nav {
     background-color: #1f5b25;
     position: fixed;
@@ -22,6 +26,7 @@ nav a:hover {
 
 nav img {
     width: 40px;
+    margin-left: 25px;
 }
 
 .logo {
@@ -55,6 +60,10 @@ nav img {
     width: 30px;
     right: 20px;
     top: 20px;
+}
+
+.kave img {
+    width: 100%;
 }
 
 h1 {
