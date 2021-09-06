@@ -47,7 +47,6 @@ nav img {
     border-radius: 4px;
     text-align: center;
     color: #1f5b25;
-    background-color: white;
 }
 
 .card:hover {
@@ -62,7 +61,7 @@ nav img {
     top: 20px;
 }
 
-.kave img {
+.card-img {
     width: 100%;
 }
 
